@@ -12,3 +12,4 @@
 ```python
 print("Hello world")
 ```
+![Гифка, как просили](big-eatie-explosion.gif)
